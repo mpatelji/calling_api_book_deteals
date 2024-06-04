@@ -33,8 +33,7 @@ class MyApp extends StatelessWidget {
 //     super.initState();
 //     Controller=AnimationController(vsync: this,duration: Duration(seconds: 2));
 //     _controller= VideoPlayerController.networkUrl(Uri.parse("https://cdn.pixabay.com/video/2023/01/26/148100-793525275_large.mp4"))
-//       ..initialize().then((_) {
-//
+//       ..initialize().then((_)
 //       setState(() {});
 //     });
 //
